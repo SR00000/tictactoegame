@@ -26,9 +26,9 @@ Please follow these instructions to run this application:\
 8) The game board will be displayed in Terminal, and the game will ask you where you want to place your marker by picking a number between 1-9. The positions are numbered from the bottom left to right, going up. Please look at the diagram below:\
 \
    7   | 8  | 9\
--------------------
+--------------
    4  |  5 |  6\
--------------------
+--------------
    1  | 2  |  3\
 \
 9) When a player has won, the game will prompt you to say if you would like to play again. If you respond \'93No\'94, the game will exit.\
